@@ -31,7 +31,7 @@ $A_z(r',\theta')=\hat\nu[\frac{1}{\lambda z}] \hat F (A_0(r,\theta) exp(\frac{ik
 * [перед фокусом](https://drive.google.com/file/d/1GajYZfS6c2na59GuyMGQzx2pgnQGdzs_/view?usp=sharing)
 * [с обеих позиций](https://drive.google.com/file/d/1Io8RWLJicvvPHoObCff8O4ACBxBRcQpT/view?usp=sharing)
 
-Все веса весят по 95 Мб
+Все модели весят по 95 Мб
 
 ## Описание файлов
 
